@@ -248,7 +248,7 @@ html {
 			position: absolute;
 			left: -80px;
 			top: 0px;
-			background: url("../img/earth.svg") 0 0 / 100% no-repeat;
+			background: url("../img/Earth.svg") 0 0 / 100% no-repeat;
 			width: 40px;
 			height: 40px;
 			@include breakpoint(sm) {
@@ -291,7 +291,7 @@ html {
 	&__item-02 {
 		margin-right: 21px;
 		&:after {
-			background: url("../img/person.svg") 0 0 / 100% no-repeat;
+			background: url("../img/Person.svg") 0 0 / 100% no-repeat;
 		}
 	}
 
